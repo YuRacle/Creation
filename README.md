@@ -4,6 +4,7 @@
 ## 2.LifeGame
 生命游戏基础规矩加上颜色元素
 ## 3.找茬
+详情看FindDefferentOfPictures仓库
 ### Don't Touch Me!
 ![图片](https://github.com/YuRacle/Creation/blob/master/1.jpg)
 ### LifeGame
